@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{B3313400-77DD-40FD-98DC-AA1C912889D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{B3313400-77DD-40FD-98DC-AA1C912889D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{87168136-00E1-471F-9356-404FF358D6D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{87168136-00E1-471F-9356-404FF358D6D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{EF6CACC6-E68E-400C-8FCE-D14BFB70052C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{EF6CACC6-E68E-400C-8FCE-D14BFB70052C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{2B0C0F19-03E3-4C58-AE44-A1C45DEED10C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{2B0C0F19-03E3-4C58-AE44-A1C45DEED10C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{8365087B-B376-44B4-AAEF-17A50CD3BE6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{8365087B-B376-44B4-AAEF-17A50CD3BE6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{FD149300-CED4-4127-9750-218CF2AC24AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{FD149300-CED4-4127-9750-218CF2AC24AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{6C40552B-AB2F-4ED2-A4B1-7D237117569E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{57A8039D-06F7-4145-BAD0-EF273FA1114A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{FD149300-CED4-4127-9750-218CF2AC24AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD149300-CED4-4127-9750-218CF2AC24AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD149300-CED4-4127-9750-218CF2AC24AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C40552B-AB2F-4ED2-A4B1-7D237117569E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C40552B-AB2F-4ED2-A4B1-7D237117569E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C40552B-AB2F-4ED2-A4B1-7D237117569E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C40552B-AB2F-4ED2-A4B1-7D237117569E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A8039D-06F7-4145-BAD0-EF273FA1114A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A8039D-06F7-4145-BAD0-EF273FA1114A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A8039D-06F7-4145-BAD0-EF273FA1114A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A8039D-06F7-4145-BAD0-EF273FA1114A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
